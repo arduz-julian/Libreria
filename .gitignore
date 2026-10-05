@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Archivos generados por Android Studio
+/build/
+*/build/
+
+
+# Archivos generados por Android Studio
+/build/
+*/build/
+
